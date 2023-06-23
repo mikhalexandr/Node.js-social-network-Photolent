@@ -1,2 +1,2 @@
 # Photolent
-Project for school - social media for classmates
+Social media for classmates
