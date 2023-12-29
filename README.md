@@ -1,2 +1,2 @@
 # Photolent
-Social media for classmates (school project)
+A social network for classmates that includes a news feed in the form of photo cards, pages for downloading photo cards, as well as a login/registration page
